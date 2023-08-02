@@ -18,7 +18,7 @@
   --danger-color: #EAD8B1;
   --url-color: #98A3B1;
   --background-image: url('https://i.pinimg.com/564x/21/03/2d/21032d0a69302050eefc8dc6e4c995b4.jpg');
-  --background-shading: 30%;
+  --background-shading: 50%;
   --background-position: center;
   --background-size: cover;
   --background-repeat: no-repeat;
@@ -84,5 +84,7 @@
   --bd-blue-hover: var(--hover-color);
   --bd-blue-active: var(--hover-color);
 }
+
+/* Any custom CSS below here */
 
 
