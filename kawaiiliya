@@ -1,5 +1,5 @@
 /**
- * @name kawaiikuma
+ * @name kawaiikuma3
  * @author ClearVision Team
  * @version 6.3.0
  * @description Highly customizable and beautiful theme for BetterDiscord.
@@ -12,13 +12,13 @@
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
 
 :root {
-  --main-color: #FFE2E9;
-  --hover-color: #FFE4EB;
-  --success-color: #FF9EB6;
+  --main-color: #FFBECF;
+  --hover-color: #FFD1DD;
+  --success-color: #FFA7BC;
   --danger-color: #EAD8B1;
   --url-color: #98A3B1;
-  --background-image: url('https://i.pinimg.com/564x/21/03/2d/21032d0a69302050eefc8dc6e4c995b4.jpg');
-  --background-shading: 50%;
+  --background-image: url('https://cdn.discordapp.com/attachments/811649542348603402/1136385352303640688/dccb53f1800aa89c8b6916b7f989d497.jpg');
+  --background-shading: 60%;
   --background-position: center;
   --background-size: cover;
   --background-repeat: no-repeat;
@@ -29,7 +29,7 @@
   --background-grayscale: 0%;
   --background-invert: 0%;
   --background-blur: 2px;
-  --background-overlay: rgba(0,0,0,0.6);
+  --background-overlay: rgb(0,0,0,0.6);
   --user-popout-image: url('https://clearvision.github.io/images/sapphire.jpg');
   --user-popout-position: center;
   --user-popout-size: cover;
@@ -41,7 +41,7 @@
   --user-popout-grayscale: 0%;
   --user-popout-invert: 0%;
   --user-popout-blur: 3px;
-  --user-modal-image: transparent;
+  --user-modal-image: url('https://htmlcolorcodes.com/assets/images/colors/black-color-solid-background-1920x1080.png');
   --user-modal-position: center;
   --user-modal-size: cover;
   --user-modal-repeat: no-repeat;
@@ -55,8 +55,8 @@
   --home-icon: url('https://cdn.discordapp.com/emojis/1090066377756389426.png');
   --home-position: center;
   --home-size: 39px;
-  --channel-unread: #E8A3B4;
-  --channel-color: rgb(255,226,233,1);
+  --channel-unread: #FFA7BC;
+  --channel-color: rgb(255,190,207,1);
   --muted-color: rgba(255,255,255,0.1);
   --online-color: #43b581;
   --idle-color: #faa61a;
